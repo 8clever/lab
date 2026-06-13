@@ -12,7 +12,7 @@
 
 [Deterministic uint CNN](https://www.linkedin.com/posts/ivan-vitiaev_why-run-a-neural-network-in-milliseconds-activity-7441187728299458560-Mf3r)
 
-[Determenistic uint Transformer](https://www.linkedin.com/posts/ivan-vitiaev_ai-beyond-the-floating-point-crystalline-activity-7439042590122901504-CTXI)
+[Deterministic uint Transformer](https://www.linkedin.com/posts/ivan-vitiaev_ai-beyond-the-floating-point-crystalline-activity-7439042590122901504-CTXI)
 
 [Fast Ethereum Node](https://www.linkedin.com/posts/ivan-vitiaev_just-started-to-investigate-web3-infra-im-activity-7436344903602769920-OW8D)
 
