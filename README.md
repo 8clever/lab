@@ -1,5 +1,7 @@
 # Deep RnD
 
+[Immutable Autonomous Interfaces (IAI)](https://www.linkedin.com/posts/ivan-vitiaev_freedom-architecture-web3-share-7476301667819479040-jQY3)
+
 [Cross-Domain prompt injections](https://www.linkedin.com/posts/ivan-vitiaev_aisecurity-promptinjection-cybersecurity-activity-7471119261797756928-OoS_)
 
 [Reverse Engineering Protected/Obfuscated Web Applications](https://www.linkedin.com/posts/ivan-vitiaev_softwareengineering-webdevelopment-chromeextension-activity-7468787479668518913-Ug8M)
