@@ -1,5 +1,7 @@
 # Deep RnD
 
+[Proactive AI Tutor](https://www.linkedin.com/posts/ivan-vitiaev_ai-edtech-userinterface-activity-7486797332727021568-ksaj)
+
 [Collaborative Learning](https://www.linkedin.com/feed/update/urn:li:activity:7485476486309728256/)
 
 [Immutable Autonomous Interfaces (IAI)](https://www.linkedin.com/posts/ivan-vitiaev_freedom-architecture-web3-share-7476301667819479040-jQY3)
