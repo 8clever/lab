@@ -20,4 +20,4 @@
 
 [Fast Ethereum Node](https://www.linkedin.com/posts/ivan-vitiaev_just-started-to-investigate-web3-infra-im-activity-7436344903602769920-OW8D)
 
-[Polymarket MM](https://www.linkedin.com/posts/ivan-vitiaev_best-proof-of-skills-created-polymarket-activity-7417555581349056512-jdK6)
+[Polymarket MM](https://www.vitiaev.com/blog/one_of_the_best_proofs_of_my_engineering_skills)
